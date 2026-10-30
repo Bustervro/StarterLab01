@@ -76,5 +76,3 @@ export function printReceipt(taxRate: number): void {
 
   console.log(lines.join("\n"));
 }
-
-// AI transparency: AI was used to clean up this code.
