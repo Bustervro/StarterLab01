@@ -48,5 +48,3 @@ export function printReceipt(taxRate: number) {
   console.log(`Tax: $ + ${String(taxRate)}");
   console.log(`Total: $ + ${tax(String(taxRate))}");
 }
-
-// AI transparency: AI was used to clean up this code.
